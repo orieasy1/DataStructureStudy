@@ -51,7 +51,7 @@
 
 지원 세션 진행자료: 
 
-* 민혁: [1주차 공부내용 정리]()
+* 민혁: [1주차 공부내용 정리](https://blog0436.tistory.com/entry/JAVA-%EA%B0%9D%EC%B2%B4%EC%99%80-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 * 서하: [1주차 공부내용 정리]()
 * 수용: [1주차 공부내용 정리](https://protruser.tistory.com/43)
 * 영진: [1주차 공부내용 정리]()
