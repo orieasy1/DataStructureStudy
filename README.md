@@ -55,7 +55,7 @@
 * 서하: [1주차 공부내용 정리](https://dcoding123.tistory.com/1)
 * 수용: [1주차 공부내용 정리](https://protruser.tistory.com/43)
 * 영진: [1주차 공부내용 정리](https://velog.io/@younjin_02/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%84%B0%EB%94%94-1.-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-%EA%B0%9D%EC%B2%B4%EC%9D%98-%ED%8A%B9%EC%84%B1)
-* 현민: [1주차 공부내용 정리]()
+* 현민: [1주차 공부내용 정리](https://hyunmin43240.tistory.com/1)
 * 승우: [1주차 공부내용 정리](https://velog.io/@swbaik01/JAVA-객체의-4가지-특징)
 
 <br>
