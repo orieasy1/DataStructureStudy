@@ -64,7 +64,7 @@
 **2주차: 자료구조란 + Time Complexity**
 
 * 민혁: [2주차 공부내용 정리](https://blog0436.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-Time-Complexity)
-* 서하: [2주차 공부내용 정리]()
+* 서하: [2주차 공부내용 정리](https://dcoding123.tistory.com/2)
 * 수용: [2주차 공부내용 정리]()
 * 영진: [2주차 공부내용 정리](https://velog.io/@younjin_02/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%84%B0%EB%94%94-02.-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%9E%80-%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84)
 * 지원: [2주차 공부내용 정리]()
