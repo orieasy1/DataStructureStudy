@@ -68,5 +68,5 @@
 * 수용: [2주차 공부내용 정리](https://protruser.tistory.com/48)
         [2주차 공부내용 정리](https://protruser.tistory.com/49)
 * 영진: [2주차 공부내용 정리](https://velog.io/@younjin_02/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%84%B0%EB%94%94-02.-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%9E%80-%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84)
-* 지원: [2주차 공부내용 정리]()
+* 지원: [2주차 공부내용 정리1](https://easy1nhard2.tistory.com/15), [2주차 공부내용 정리2](https://easy1nhard2.tistory.com/16)
 * 현민: [2주차 공부내용 정리](https://hyunmin43240.tistory.com/2)
