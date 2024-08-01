@@ -63,7 +63,7 @@
 2024.07.26 (금) <br>
 **2주차: 자료구조란 + Time Complexity**
 
-* 민혁: [2주차 공부내용 정리](https://blog0436.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-Time-Complexity)
+* 민혁: [2주차 공부내용 정리](https://blog0436.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-Time-Complexity),[2주차 공부내용 정리](https://blog0436.tistory.com/entry/%EC%9E%90%EB%B0%94-Basic)
 * 서하: [2주차 공부내용 정리](https://dcoding123.tistory.com/2)
 * 수용: [2주차 공부내용 정리](https://protruser.tistory.com/48)
         [2주차 공부내용 정리](https://protruser.tistory.com/49)
@@ -77,7 +77,7 @@
 2024.08.02 (금) <br>
 **3주차: List**
 
-* 민혁: [3주차 공부내용 정리]()
+* 민혁: [3주차 공부내용 정리](https://blog0436.tistory.com/entry/JAVA-%EB%A6%AC%EC%8A%A4%ED%8A%B8)
 * 서하: [3주차 공부내용 정리]()
 * 수용: [3주차 공부내용 정리](https://protruser.tistory.com/50)
 * 영진: [3주차 공부내용 정리](https://velog.io/@younjin_02/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%84%B0%EB%94%94-03.-%EB%A6%AC%EC%8A%A4%ED%8A%B8)
