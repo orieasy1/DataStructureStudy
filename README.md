@@ -78,7 +78,7 @@
 **3주차: List**
 
 * 민혁: [3주차 공부내용 정리](https://blog0436.tistory.com/entry/JAVA-%EB%A6%AC%EC%8A%A4%ED%8A%B8)
-* 서하: [3주차 공부내용 정리]()
+* 서하: [3주차 공부내용 정리](https://dcoding123.tistory.com/4)
 * 수용: [3주차 공부내용 정리](https://protruser.tistory.com/50)
 * 영진: [3주차 공부내용 정리](https://velog.io/@younjin_02/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%84%B0%EB%94%94-03.-%EB%A6%AC%EC%8A%A4%ED%8A%B8)
 * 지원: [3주차 공부내용 정리](https://easy1nhard2.tistory.com/17)
