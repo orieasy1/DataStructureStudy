@@ -94,7 +94,7 @@
 * 민혁: [4주차 공부내용 정리](https://blog0436.tistory.com/entry/JAVA-%EC%8A%A4%ED%83%9D)
 * 서하: [4주차 공부내용 정리](https://dcoding123.tistory.com/6)
 * 수용: [4주차 공부내용 정리](https://protruser.tistory.com/53)
-* 영진: [4주차 공부내용 정리]()
+* 영진: [4주차 공부내용 정리](https://velog.io/@younjin_02/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%84%B0%EB%94%94-04.-%EC%8A%A4%ED%83%9DStack)
 * 지원: [4주차 공부내용 정리]()
 * 현민: [4주차 공부내용 정리](https://hyunmin43240.tistory.com/4)
 * 승우: [4주차 공부내용 정리](https://velog.io/@swbaik01/Data-Structure-week4-stack)
