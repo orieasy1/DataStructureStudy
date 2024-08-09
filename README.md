@@ -97,4 +97,4 @@
 * 영진: [4주차 공부내용 정리]()
 * 지원: [4주차 공부내용 정리]()
 * 현민: [4주차 공부내용 정리](https://hyunmin43240.tistory.com/4)
-* 승우: [4주차 공부내용 정리]()
+* 승우: [4주차 공부내용 정리](https://velog.io/@swbaik01/Data-Structure-week4-stack)
