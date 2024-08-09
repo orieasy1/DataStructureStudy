@@ -89,11 +89,11 @@
 <br>
 
 2024.08.09 (금) <br>
-**4주차: Stackt**
+**4주차: Stack**
 
 * 민혁: [4주차 공부내용 정리](https://blog0436.tistory.com/entry/JAVA-%EC%8A%A4%ED%83%9D)
 * 서하: [4주차 공부내용 정리](https://dcoding123.tistory.com/6)
-* 수용: [4주차 공부내용 정리]()
+* 수용: [4주차 공부내용 정리](https://protruser.tistory.com/53)
 * 영진: [4주차 공부내용 정리]()
 * 지원: [4주차 공부내용 정리]()
 * 현민: [4주차 공부내용 정리](https://hyunmin43240.tistory.com/4)
