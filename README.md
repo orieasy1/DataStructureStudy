@@ -110,4 +110,4 @@
 * 영진: [4주차 공부내용 정리](https://velog.io/@younjin_02/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%8A%A4%ED%84%B0%EB%94%94-04.-%EC%8A%A4%ED%83%9DStack)
 * 지원: [4주차 공부내용 정리](https://easy1nhard2.tistory.com/22)
 * 현민: [4주차 공부내용 정리](https://hyunmin43240.tistory.com/5)
-* 승우: [4주차 공부내용 정리]()
+* 승우: [4주차 공부내용 정리](https://velog.io/@swbaik01/Data-Structure-week4-queue)
